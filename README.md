@@ -1,4 +1,4 @@
-# CET 4/6 英语四六级
+# CET 4/6 大学英语四六级
 
 The College English Test, commonly known as CET, is a national standardized test in China that assesses the English skills of college students. The test is designed to ensure that undergrad and grad students meet the English proficiency levels outlined in the National College English Test Syllabus. With 26 years under its belt, the CET now attracts around 18 million test-takers every year. There are two levels to the test: CET4 and CET6.
 
