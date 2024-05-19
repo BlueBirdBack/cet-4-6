@@ -11,3 +11,16 @@ National College English Test Syllabus (2016 Revised Edition)
 https://cet.neea.edu.cn/html1/folder/16113/1588-1.htm
 
 [《全国大学英语四、六级考试大纲（2016年修订版）》](./pdf/《全国大学英语四、六级考试大纲（2016年修订版）》.pdf)
+
+### Extracting CET4 and CET6 Word Lists
+
+The folder [`scripts`](./scripts) contains the scripts I've developed to extract the word lists from the PDF syllabus.
+
+### Word Lists
+
+You can find the extracted CET4 and CET6 word lists in the [`words`](./words) folder:
+
+- [CET4 Words](./words/cet_4_words.txt)
+- [CET6 Words](./words/cet_6_words.txt)
+
+I've made some minor adjustments to make the words more machine-readable, so they'll play nice with large language models (LLMs) like Llama 3.
