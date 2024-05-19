@@ -106,6 +106,8 @@ appendix
 appraise
 appraisal
 apprentice
+appropriate
+appropriation
 apron
 apt
 aptly
@@ -362,6 +364,7 @@ contrive
 convene
 converge
 convergence
+converse
 convict
 conviction
 convoy
@@ -867,6 +870,7 @@ intrinsic
 intrinsically
 intuition
 intuitive
+invalid
 inventory
 invert
 inversion
@@ -1449,6 +1453,8 @@ stall
 stammer
 stance
 standby
+staple
+stapler
 stark
 static
 stationery
